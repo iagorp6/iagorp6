@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, my name is Iago Rosa</h1>
 <h3 align="center">A engaged dev from Brasil 🇧🇷</h3>
 
+- 🚀 I'm looking for opportunities to apply my knowledge of **Information Technology** and **Computer Science** to contribute to innovative projects.
 - ✍️ I’m currently learning **Data structures and algorithms**
 
 <div  align="center" style="margin-bottom:100px">
