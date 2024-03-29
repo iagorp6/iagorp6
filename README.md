@@ -3,15 +3,20 @@
 <h3 align="center">A engaged dev from Brasil 🇧🇷</h3>
 
 - 🚀 I'm looking for opportunities to apply my knowledge of **Information Technology** and **Computer Science** to contribute to innovative projects.
-- ✍️ I’m currently learning **Data structures and algorithms**
+- ✍️ I’m currently learning **Data structures and algorithms**.
 
+&nbsp;
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=iagorp9&show_icons=true&theme=dracula&layout=compact"/>
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagorp9&theme=dracula&mode=weekly"/>
+<img width=40% align="center" src="https://github-readme-stats-red-zeta-61.vercel.app/api/top-langs/?username=iagorp9&show_icons=true&theme=radical&layout=compact"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagorp9&theme=radical&mode=weekly" />
 </div>
+&nbsp;
 
 ## My Skills
 <h3 align="left">Programing Languages:</h3>
+
+<img align='right' width=50% src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -20,8 +25,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="right" alt="Dev gif" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif")/> </p>
 
 <h3 align="left">Mobile Development:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -35,10 +38,12 @@
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> </p>
 
 ## Contacts:
+&nbsp;
 <div> 
 <p align="center"> <a href = "mailto:iagorp06@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://www.instagram.com/euiagooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://wa.me/5551996875296/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> </p>
-</div>&nbsp;&nbsp;
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=512f93&section=footer"/>
