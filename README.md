@@ -3,7 +3,7 @@
 <h3 align="center">A engaged dev from Brasil 🇧🇷</h3>
 
 - 🚀 I'm looking for opportunities to apply my knowledge of **Information Technology** and **Computer Science** to contribute to innovative projects.
-- ✍️ I’m currently studying **Machine learning and prompt engineering**.
+- ✍️ I’m currently studying **Machine Learning and Prompt Engineering**.
 
 &nbsp;
 <div  align="center" style="margin-bottom:100px">
