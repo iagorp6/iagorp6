@@ -78,12 +78,12 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 ### What I've built
 
 - **[ensemble](https://github.com/iagorp6/ensemble)**: a personal Internal Developer Platform. Terraform, Ansible, CI, ArgoCD, Prometheus/Grafana/Loki, ending in a local LLM that reads an alert and drafts the cause note in plain English.
+- **[soundcheck](https://github.com/iagorp6/soundcheck)**: deploy, monitor, and rollback scripts backed by a real observability stack, Prometheus/Grafana/Loki/Alertmanager via Docker Compose, blue-green deploys, and a Kubernetes-native mode on Kind for the same three actions via kubectl.
 - **[radio-auto-pi](https://github.com/iagorp6/radio-auto-pi)**: a Raspberry Pi kiosk that puts itself back on air after a crash, or after a silent freeze, with nobody in the room. About 85% fewer incidents across a fleet of roughly 40 devices.
-- **[WeatherApp](https://github.com/iagorp6/WeatherApp)**: Spring Boot and React, city search with autocomplete.
 
 ### Now
 
-- 🧱 Building `ensemble` one layer at a time, demoable at every stage instead of only at the end
+- 🎯 Applying to DevOps/SRE/Cloud roles in the international remote market
 - 🎓 Finishing my **BSc in Computer Science** (CESUCA, 2026)
 - 📚 Fresh off Alura's **SRE** (330h), **Platform Engineering** (118h) and **AI Specialist** (157h) tracks
 - 🗣️ Portuguese native, English fluent, Spanish intermediate
