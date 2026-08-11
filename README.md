@@ -19,7 +19,7 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 
 **Systems & endpoints**
 
-[![Linux, Ubuntu, Debian, Windows, Raspberry Pi, Bash](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,raspberrypi,bash&perline=6)](https://skillicons.dev)
+[![Linux, Ubuntu, Debian, Kali, Windows, Raspberry Pi, Bash](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,raspberrypi,bash&perline=7)](https://skillicons.dev)
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-4D4D4D?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-4D4D4D?style=flat-square)
