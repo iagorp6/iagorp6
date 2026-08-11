@@ -48,7 +48,7 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 
 **Automation, IaC & CI/CD**
 
-[![Terraform, Ansible, Jenkins, GitHub Actions, Git, GitHub](https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,git,github&perline=5)](https://skillicons.dev)
+[![Terraform, Ansible, Jenkins, GitHub Actions, Git, GitHub](https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,git,github&perline=6)](https://skillicons.dev)
 
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![SOPS](https://img.shields.io/badge/SOPS%20%2B%20age-4D4D4D?style=flat-square)
