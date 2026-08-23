@@ -1,8 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=512f93&text=Iago%20Rosa%20Pinheiro&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Technical%20Support%20Engineer%20%C2%B7%20Infrastructure%20Automation%20%C2%B7%20Cloud%20%2F%20DevOps%20%2F%20SRE&descAlignY=58&descSize=16" />
-
-<p align="center">
-  <samp>Porto Alegre, RS · Brazil 🇧🇷</samp>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=512f93&text=Iago%20Rosa%20Pinheiro&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Technical%20Support%20Engineer%20%C2%B7%20Infrastructure%20Automation%20%C2%B7%20Cloud%20%2F%20DevOps%20%2F%20SRE-nl-Porto%20Alegre%2C%20RS%20%C2%B7%20Brazil&descAlignY=58&descSize=16" />
 
 ---
 
@@ -11,27 +7,26 @@
 I keep infrastructure standing for **4,000+ users**, and work through around **50 incidents a day** across endpoints, Microsoft 365, Active Directory, networking and ERP. The part I actually enjoy is what happens after the ticket closes:
 
 - 📉 Cut incident resolution time by **20%**, by automating the service desk and writing the runbooks nobody had
-- 🛰️ Shipped a self-healing Raspberry Pi fleet that took recurring incidents down about **85%**, from roughly 7 a day to about 1
-- 🎬 Wrote **50+ SOPs and runbooks** that Tier 1/2 onboarding still runs on
-- 🔐 Live daily in Linux, Windows Server, Active Directory, IAM, DNS/DHCP, VPN/VLANs and Fortinet/FortiNAC
+- 🛰️ Shipped a self-healing Raspberry Pi fleet across 40 sites, cutting related tickets **~48%** against a 12-month baseline (**~58%** same-season year-over-year, GLPI-verified)
+- 🎬 Wrote **100+ runbooks, SOP videos, and KB articles** that Tier 1/2 onboarding still runs on
+- 🔐 Live daily in Linux, Windows Server, Active Directory, Entra ID/M365 (permissions, MFA, licensing), DNS/DHCP, VPN/VLANs and Fortinet/FortiNAC
 
 ### What I work with
 
 **Systems & endpoints**
 
-[![Linux, Ubuntu, Debian, Kali, Windows, Raspberry Pi, Bash](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,raspberrypi,bash&perline=7)](https://skillicons.dev)
+[![Linux, Ubuntu, Debian, Windows, Raspberry Pi, Bash](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,raspberrypi,bash&perline=6)](https://skillicons.dev)
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-4D4D4D?style=flat-square)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-4D4D4D?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-4D4D4D?style=flat-square)
-![IAM](https://img.shields.io/badge/IAM-4D4D4D?style=flat-square)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-4D4D4D?style=flat-square)
 ![Group Policy](https://img.shields.io/badge/Group%20Policy-4D4D4D?style=flat-square)
 
 **Networking & security**
 
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![FortiNAC](https://img.shields.io/badge/FortiNAC-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4D4D4D?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-4D4D4D?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-4D4D4D?style=flat-square)
@@ -61,8 +56,6 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana Alloy](https://img.shields.io/badge/Grafana%20Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Uptime & SLA](https://img.shields.io/badge/Uptime%20%26%20SLA-4D4D4D?style=flat-square)
 
 **Code & data**
@@ -74,12 +67,11 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 ### What I've built
 
 - **[ensemble](https://github.com/iagorp6/ensemble)**: a personal Internal Developer Platform. Terraform, Ansible, CI, ArgoCD, Prometheus/Grafana/Loki, ending in a local LLM that reads an alert and drafts the cause note in plain English.
 - **[soundcheck](https://github.com/iagorp6/soundcheck)**: deploy, monitor, and rollback scripts backed by a real observability stack, Prometheus/Grafana/Loki/Alertmanager via Docker Compose, blue-green deploys, and a Kubernetes-native mode on Kind for the same three actions via kubectl.
-- **[radio-auto-pi](https://github.com/iagorp6/radio-auto-pi)**: a Raspberry Pi kiosk that puts itself back on air after a crash, or after a silent freeze, with nobody in the room. About 85% fewer incidents across a fleet of roughly 40 devices.
+- **[radio-auto-pi](https://github.com/iagorp6/radio-auto-pi)**: a Raspberry Pi kiosk that puts itself back on air after a crash, or after a silent freeze, with nobody in the room. Cut related tickets ~48% against a 12-month baseline (~58% same-season year-over-year, GLPI-verified) across a 40-site fleet.
 
 ### Now
 
