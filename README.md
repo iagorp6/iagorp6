@@ -83,11 +83,13 @@ I keep infrastructure standing for **4,000+ users**, and work through around **5
 ## Contacts:
 &nbsp;
 <div>
-<p align="center"> <a href = "mailto:iagorp06@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/iagorp6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://wa.me/5551996875296/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> </p>
+<p align="center"> 
+<a href = "mailto:iagorp06@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/gmail.webp" height=50 width=50></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iagorp6/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/linkedin.webp" height=50 width=50></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/5551996875296/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/whatsapp.webp" height=50 width=50></a>
+</p>
 </div>
 
-<p align="center"><samp>Open to infrastructure, DevOps and SRE work, remote or hybrid.</samp></p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=512f93&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=512f93&section=footer&text=Open%20to%20infrastructure,%20DevOps%20and%20SRE%20work,%20remote%20or%20hybrid&fontColor=ffffff&fontSize=15&fontAlignY=85&"/>
